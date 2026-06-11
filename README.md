@@ -4,6 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Radio](https://img.shields.io/badge/project-radio%20streaming-purple)
+![AI Generated](https://img.shields.io/badge/code-AI%20assisted-lightgrey)
 
 NeuroFM is a self-hosted Python radio automation system with a live Icecast stream and a web dashboard. It automatically plays music, injects voice segments, handles scheduled news breaks, and exposes a real-time “Now Playing” interface.
 
