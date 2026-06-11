@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+config.json
+status.json
+music/
+chill_music/
+neuro_tts/
+.env
