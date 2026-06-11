@@ -39,8 +39,9 @@ NeuroFM runs two main components:
 
 ---
 
-# 📁 Project Structure
+## 📁 Project Structure
 
+```text
 neurofm/
 ├── radio.py
 ├── dashboard.py
@@ -56,6 +57,7 @@ neurofm/
 ├── neuro_tts/
 │
 └── assets/
+```
 
 ---
 
